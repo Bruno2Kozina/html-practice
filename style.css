@@ -1,0 +1,15 @@
+.hljs {
+    background-color: black;
+    color: white;
+    font-family: 'Times New Roman', Times, serif;
+}
+img {
+    display: flex;
+    border-radius: 8px;
+    block-size: 10em;
+    margin-top: 10px;
+  }
+  h4 {
+      font-family: monospace;
+      background-color: khaki;
+  }
